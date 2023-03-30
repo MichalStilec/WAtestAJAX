@@ -1,0 +1,28 @@
+#like{
+    width: 75px;
+    height: 30px;
+    background-color: rgb(40, 216, 247);
+}
+
+#dislike {
+    width: 75px;
+    height: 30px;
+    background-color: red;
+}
+
+#new {
+    width: 130px;
+    height: 30px;
+}
+
+table, tr {
+    width: 100%;
+}
+
+#header {
+    font-size: large;
+}
+
+body {
+    background-color: rgb(192, 255, 130);
+}
